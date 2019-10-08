@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DdarkbluuViewTool::Renderer.copyright 'Matthew Hopwood', 'All rights reserved'
+```
 
 ## Development
 
