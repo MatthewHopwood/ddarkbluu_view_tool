@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ddarkbluu_view_tool (0.1.0)
+    ddarkbluu_view_tool (0.1.1)
 
 GEM
   remote: https://rubygems.org/
